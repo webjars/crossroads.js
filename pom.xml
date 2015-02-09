@@ -11,9 +11,9 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>crossroads.js</artifactId>
-    <version>0.12.1-SNAPSHOT</version>
-    <name>WEBJAR_NAME</name>
-    <description>WebJar for WEBJAR_NAME</description>
+    <version>0.12.0-1-SNAPSHOT</version>
+    <name>Crossroads.js</name>
+    <description>WebJar for Crossroads.js</description>
     <url>http://webjars.org</url>
 
     <properties>
