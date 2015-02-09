@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>crossroads.js</artifactId>
-    <version>0.12.0-1-SNAPSHOT</version>
+    <version>0.12.0-1</version>
     <name>Crossroads.js</name>
     <description>WebJar for Crossroads.js</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/crossroads.js</url>
         <connection>scm:git:https://github.com/webjars/crossroads.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/crossroads.js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>crossroads.js-0.12.0-1</tag>
     </scm>
     
     <build>
